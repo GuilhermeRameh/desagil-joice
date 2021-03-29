@@ -1,4 +1,4 @@
-# APS 2 - Desenvolvimento Colaborativo Ágil realizada por:
+# APS 2 - Desenvolvimento Colaborativo Ágil:
 
 Duṕla:
 - Guilherme Dantas Rameh
