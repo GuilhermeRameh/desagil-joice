@@ -1,4 +1,5 @@
-#APS 2 - Desenvolvimento Colaborativo Ágil realizada por:
+# APS 2 - Desenvolvimento Colaborativo Ágil realizada por:
 
+Duṕla:
 - Guilherme Dantas Rameh
-- Henrique MArtinelli Frezzatti
+- Henrique Martinelli Frezzatti
