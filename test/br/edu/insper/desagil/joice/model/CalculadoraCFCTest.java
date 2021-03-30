@@ -4,12 +4,12 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 
 class CalculadoraCFCTest {
-
+	private CalculadoraCFC calculadoraCFC;
 	private double delta = 0.05;
 	
 	@BeforeEach
 	public void setUp() {
-		CalculadoraCFC calculadoraCFC = new CalculadoraCFC;
+		calculadoraCFC = new CalculadoraCFC();
 	}
 	
 	@Test

@@ -4,12 +4,12 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 
 class CalculadoraCCCTest {
-	
+	private CalculadoraCCC calculadoraCCC;	
 	private double delta = 0.05;
 	
 	@BeforeEach
 	public void setUp() {
-		CalculadoraCCC calculadoraCCC = new CalculadoraCCC;
+		 calculadoraCCC = new CalculadoraCCC();
 	}
 	
 	@Test
